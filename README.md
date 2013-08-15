@@ -4,6 +4,7 @@ F.E.E. Workshop
 
 ## 資料
 
+* [2013/08/15 (Thu) workshop #7](https://docs.google.com/presentation/d/18fHMyuMfC_peLzTWthZDADbsaY8V6IaWIvHk3SgFHjw/edit?usp=sharing)
 * [2013/08/08 (Thu) workshop #6](https://docs.google.com/presentation/d/16_v0vvyPYT-vDprqHTdwZk8aJ2IFmTGFI8FcJocpie4/edit?usp=sharing)
 * [2013/07/29 (Mon) workshop #5](https://docs.google.com/presentation/d/131TRbl4nAOQTcOQp4DABcgba-YQI5X1_-ep0EnhpI7M/edit?usp=sharing)
 * [2013/07/22 (Mon) workshop #4](https://docs.google.com/presentation/d/1NfsPyypmmvgWkjpTI3nlzXvzA8teHWtwKPYdwdLBoHk/edit?usp=sharing)
